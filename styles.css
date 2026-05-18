@@ -1,0 +1,19 @@
+body {
+    font family: Arial, san serif;
+}
+
+header {
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: none;
+    text-align: right;  /*align search buttons to the right*/
+}
+
+nav ul li {
+    display: inline;
+    margin-righht: 10px;
+}
