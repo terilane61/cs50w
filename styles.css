@@ -1,5 +1,5 @@
 body {
-    font family: Arial, san serif;
+    font-family: Arial, san serif;
 }
 
 header {
@@ -39,7 +39,7 @@ main {
     margin-bottom: 20px;
 }
 
-.search-bar input [type="text"] {
+.search-bar input[type="text"] {
     width: 400px;
     padding: 5px;
     border-radius: 20px;
@@ -47,14 +47,14 @@ main {
     outline: none;
 }
 
-.search-bar input [type="submit"] {
+.search-bar input[type="submit"] {
     margin-top: 5px;
-    display: block;
-    margin-left: auto;
+    display: block;margin-left: auto;
     margin-right: auto;
     padding: 5px 20px;
     border-radius: 20px;
     border: none;
+    background-color: #f2f2f2;
     cursor: pointer;
 }
 
